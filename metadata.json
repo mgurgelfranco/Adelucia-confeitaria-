@@ -1,0 +1,6 @@
+{
+  "name": "Adê Andrade Confeitaria",
+  "description": "Sistema de catálogo autoral, encomendas personalizadas e gestão inteligente de agendamento e capacidade de produção para Adê Andrade Confeitaria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
